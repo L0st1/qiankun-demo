@@ -1,0 +1,6 @@
+[submodule "app-vue3-default"]
+	path = app-vue3-default
+	url = https://github.com/L0st1/app-vue3-default.git
+[submodule "qiankun-vue-base"]
+	path = qiankun-vue-base
+	url = https://github.com/L0st1/qiankun-vue-base.git
